@@ -1,0 +1,48 @@
+Question:1
+===========
+Find out unique substring of given length of string.
+EX:
+Input - (aab,2) , Output - aa, ab
+Input- (aabc,2), Output - aa, ab,bc
+Input -(abc,1), Output - abc
+
+Question:2
+=============
+Create a method to return difference between given and input String.
+
+     eg. Given String  = ""abcdefghijklmnopqrstuvwxyz"";
+           Input String  = ""Online test with GS client "";
+Write a method that should return difference of characters (missing char from given string) between  given String and Input string.
+
+Question:3
+============
+Find the median of two sorted arrays of different size. 
+
+Example:
+ Input : 
+Array 1: 2 3 6 7 9 
+Array 2: -1 4 8 10  = 5 
+
+Output : 6
+
+Hint: The final sorted array would be - 1, 2, 3, 4, 6, 7, 8, 9, 10 The 5th element of this array is 6. 
+
+
+Question:4
+==============
+Find out the first repeating character in each string, from the given array of String.
+
+Ex:
+Input : { ""array"", ""apple"", ""rat""}
+Output: a,p
+
+Question:5
+============
+How to find is power of 10
+
+Ex:
+Input : 100 
+ouput: True (because 10 power 2 is 100)
+
+Input: 80
+Ouput: false (not power of 10)
