@@ -62,3 +62,35 @@ out put = 2+4 =6            return 2    element required .
 
 Target Value = 12
 output = 1+2+3+4 = 10   return -1  target value out of Scope .
+
+Question:7
+=============
+A little girl has 5 ten rupee coins, 10 two rupee coins and 50 five rupee coins. The needs 50 rupees out of this. 
+Write a program to find all possible ways the girl can make 50 rupees.
+
+
+Question:8
+=============
+"Given an unsorted array A of size N, find a continuous sub-array which  sums up to S.
+
+For example if the input array is [ 12,7,29,6, 2, 11,4,8] and the  expected sum is 8, then there are two possibilities [6,2] and [8]
+if the expected sum is 19 there are two possibilites [12,7] and [6,2,11].  [11,8] is not a possibility since its not continous.
+"
+
+Question:9
+==============
+Find Reverse String With Preserving Order.
+
+Ex:
+  Input = abcd, output = dcba
+  Input = I am Java Developer, Output  = r ep olev eDavajamI
+  
+  Question:10
+  =============
+ Write a program for Panaram Detector.
+
+The sentence "The quick brown fox jumps over the lazy dog" contains every single letter in the alphabet. 
+Such sentences are called pangrams. Write a function called "findMissingLetters"  which takes a String `sentence`,  
+and returns all the letters it is missing. Which prevent it from being a pangram. You should ignore the case of the 
+letters in sentence, and your return should be all lower case letters, in alphabetical order.
+You should also ignore all non US-ASCII characters.
