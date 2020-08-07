@@ -70,6 +70,7 @@ Question:7
 A little girl has 5 ten rupee coins, 10 two rupee coins and 50 five rupee coins. The needs 50 rupees out of this. 
 Write a program to find all possible ways the girl can make 50 rupees.
 
+https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/
 
 Question:8
 =============
