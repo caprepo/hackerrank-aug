@@ -1,0 +1,64 @@
+Question 1:
+============
+string compression.
+For example: input aaabbcc ouput : a3b2c2
+
+Question 2: 
+=============
+Given a string s and two words w1 and w2 that are present in S. The task is to find the minimum distance between w1 and w2. Here distance is the number of steps or words between the first and the second word.
+
+Example:
+-------------
+Input : s = “geeks for geeks contribute practice”, w1 = “geeks”, w2 = “practice”
+Output : 1
+There is only one word between closest occurrences of w1 and w2.
+
+Input : s = “the quick the brown quick brown the frog”, w1 = “quick”, w2 = “frog”
+Output : 2
+
+https://www.geeksforgeeks.org/minimum-distance-between-words-of-a-string/ 
+
+Question:3
+================
+Check it power of 10 or not
+Input =[1,10,100],  Output = Power of 10
+Input = [-2,-4,3] , Output = Not Power of 10
+
+Questions:4
+===============
+Find the 2nd largest element in the given array.
+
+Question:5
+=================
+Given a positive number, find out all combinations of positive numbers that adds upto that number. The program should print only combinations, not permutations. For example, for input 3, either 1, 2 or 2, 1 should be printed.
+
+Example:
+-------------
+Input: N = 3
+Output:
+1 1 1
+1 2
+3
+
+Input: N = 5
+Output:
+1 1 1 1 1
+1 1 1 2
+1 1 3
+1 2 2
+1 4
+2 3
+5 
+
+
+Question:6
+===========
+They provided one Array {1,2,3,4} and target value as input.So we need to return sum of minimum element required  for targeted value.
+
+Example :
+----------
+Target Value = 6
+out put = 2+4 =6            return 2    element required .
+
+Target Value = 12
+output = 1+2+3+4 = 10   return -1  target value out of Scope .
