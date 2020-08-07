@@ -16,7 +16,7 @@ There is only one word between closest occurrences of w1 and w2.
 Input : s = “the quick the brown quick brown the frog”, w1 = “quick”, w2 = “frog”
 Output : 2
 
-https://www.geeksforgeeks.org/minimum-distance-between-words-of-a-string/ 
+
 
 Question:3
 ================
